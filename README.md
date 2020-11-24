@@ -1,2 +1,2 @@
 # hello-world
-The github getting started repo
+The github getting started repo, adjusted!
